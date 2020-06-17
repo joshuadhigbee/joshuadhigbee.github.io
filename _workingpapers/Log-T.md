@@ -8,4 +8,4 @@ venue: 'Working Paper'
 authors: 'James B. McDonald'
 paperurl:
 ---
-To be updated
+To be updated - more information to come
