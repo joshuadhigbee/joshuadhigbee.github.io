@@ -1,7 +1,7 @@
 ---
 title: "To be updated"
 collection: workingpapers
-permalink: /research/Log-T
+permalink: /workingpapers/Log-T
 excerpt: ' '
 date: 2020-06-15
 venue: 'Working Paper'
