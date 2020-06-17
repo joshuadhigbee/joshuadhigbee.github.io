@@ -1,6 +1,6 @@
 ---
 title: "To be updated"
-collection: publications
+collection: workingpapers
 permalink: /research/Log-T
 excerpt: ' '
 date: 2020-06-15
