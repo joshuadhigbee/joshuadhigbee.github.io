@@ -11,12 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
+## <ins>Working Papers</ins>
 {% for post in site.workingpapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Publications
+## <ins>Publications</ins>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
