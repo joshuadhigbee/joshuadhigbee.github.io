@@ -1,10 +1,10 @@
 ---
-title: "Cancer Mortality Risk, Fine Particulate Air Pollution, and Smoking in a Large, Representative Cohort of US Adults"
+title: "Air Pollution and Mortality in a Large, Representative U.S. Cohort: Multiple-Pollutant Analyses, and Spatial and Temporal Decompositions"
 collection: publications
 permalink: /research/NHIS-multipollutants
 excerpt: ' '
 date: 2019-11-21
-venue: 'Cancer Causes & Control'
+venue: 'Environmental Health'
 authors: 'Jacob S. Lefler, Richard T. Burnett, Majid Ezzati, Nathan C. Coleman, Dalton D. Mann, Julian D. Marshall, Matthew Bechle, Yuzhou Wang, Allen L. Robinson, and C. Arden Pope III'
 paperurl:
 --- 
