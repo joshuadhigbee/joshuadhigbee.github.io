@@ -5,7 +5,7 @@ permalink: /research/NHIS-cohort
 excerpt: ' '
 date: 2019-07-24
 venue: 'Environmental Health Perspectives'
-authors: 'with C. Arden Pope III, Jacob S. Lefler, Majid Ezzati, Julian D. Marshall, Sun-Young Kim, Matthew Bechle, Kurtis S. Gilliat, Spencer E. Vernon, Allen L. Robinson, and Richard T. Burnett'
+authors: 'C. Arden Pope III, Jacob S. Lefler, Majid Ezzati, Julian D. Marshall, Sun-Young Kim, Matthew Bechle, Kurtis S. Gilliat, Spencer E. Vernon, Allen L. Robinson, and Richard T. Burnett'
 paperurl:
 ---
 
