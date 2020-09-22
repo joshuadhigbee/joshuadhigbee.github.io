@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+I am a Ph.D. student in economics at the University of Chicago.  I did my undergraduate degree in economics and mathematics at Brigham Young University, where I was a research assistant working in statistics and environmental epidemiology.
