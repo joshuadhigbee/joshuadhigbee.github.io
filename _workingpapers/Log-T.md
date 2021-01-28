@@ -3,7 +3,7 @@ title: "A Comparison of the GB2 and Skewed Generalized Log-t Distributions with 
 collection: workingpapers
 permalink: /research/Log-T
 excerpt: ' '
-date: 2020-06-15
+date: 2021-01-12
 venue: 'Accepted - Journal of Econometrics'
 authors: 'James B. McDonald'
 paperurl:
