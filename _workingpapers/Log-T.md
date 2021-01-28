@@ -4,7 +4,7 @@ collection: workingpapers
 permalink: /research/Log-T
 excerpt: ' '
 date: 2020-06-15
-venue: 'Working Paper'
+venue: 'Accepted - Journal of Econometrics'
 authors: 'James B. McDonald'
 paperurl:
 ---
