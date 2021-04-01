@@ -5,7 +5,7 @@ permalink: /research/naaqs97
 excerpt: ' '
 date: 2021-01-27
 venue: 'Working Paper'
-authors: 'Jay S. Coggins and C. Arden Pope III'
+authors: 'C. Arden Pope III'
 paperurl:
 ---
 
