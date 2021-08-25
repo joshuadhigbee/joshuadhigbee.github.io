@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in economics at the University of Chicago.  I did my undergraduate degree in economics and mathematics at Brigham Young University, where I was a research assistant working in statistics and environmental epidemiology.
+I am a Ph.D. student in economics at the University of Chicago.  Before coming to Chicago, I did my undergraduate degree in economics and mathematics at Brigham Young University, where I worked as a research assistant working on topics related to statistics and environmental epidemiology.  My research interests are in industrial organization and econometrics.  
+
+You can reach me at joshuadhigbee [at] uchicago [dot] edu.
