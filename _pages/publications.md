@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Works in Progress
-Learning to Sell and the Value of Seller Experience
+Learning in Auction Platforms with Endogenous Bidder Entry
 
 Hospital Productivity and Learning with COVID-19
 
