@@ -12,9 +12,9 @@ author_profile: true
 {% include base_path %}
 
 ## Works in Progress
-Learning in Auction Platforms with Endogenous Bidder Entry
+Seller Learning on an Auction Platform
 
-Hospital Productivity and Learning with COVID-19
+Identification in Models with Agent Learning
 
 
 ## Working Papers
