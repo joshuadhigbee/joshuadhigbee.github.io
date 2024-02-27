@@ -16,6 +16,8 @@ Seller Learning on an Auction Platform
 
 Identification in Models with Agent Learning
 
+Bargaining, Bartering, and Price Rigidity in Corporate Contracting (with Matthew Jennejohn, Cree Jones, and Eric Talley)
+
 
 ## Working Papers
 {% for post in site.workingpapers reversed %}
