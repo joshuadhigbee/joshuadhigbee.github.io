@@ -12,11 +12,11 @@ author_profile: true
 {% include base_path %}
 
 ## Works in Progress
-Seller Learning on an Auction Platform
+<b>Learning and Information Design on an Auction Platform</b> (Job Market Paper)
 
-Identification in Models with Agent Learning
+<b>Identification in Models with Agent Learning</b>
 
-Bargaining, Bartering, and Price Rigidity in Corporate Contracting (with Matthew Jennejohn, Cree Jones, and Eric Talley)
+<b>Bargaining, Bartering, and Price Rigidity in Corporate Contracting</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley)
 
 
 ## Working Papers
