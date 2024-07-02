@@ -18,6 +18,10 @@ author_profile: true
 
 <b>Bargaining, Bartering, and Price Rigidity in Corporate Contracting</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley)
 
+<b>Information Demand on Centralized Exchanges</b> (with Marco Loseto)
+
+<b>Retailer Self-Preferencing When Consumers Learn by Searching</b> (with Oguz Bayraktar)
+
 
 ## Selected Publications
 <b>The Log-T, GB2, and Skewed Generalized Log-T Distributions with Financial Applications</b> (with James B. McDonald), <i>Journal of Econometrics</i>, 2021
