@@ -25,4 +25,4 @@ author_profile: true
 <b>The Log-T, GB2, and Skewed Generalized Log-T Distributions with Financial Applications</b> (with Jonathan E. Jensen and James B. McDonald), <i>Statistics and Probability Letters</i>, 2019
 
 
-Click [here](https://doi.org/10.1289/EHP4438) to see past work in environmental epidemiology.
+Click [here](https://joshuadhigbee.github.io/epi-research/) to see past work in environmental epidemiology.
