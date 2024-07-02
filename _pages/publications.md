@@ -29,4 +29,4 @@ author_profile: true
 <b>The Asymmetric Log-Laplace: Another Branch on the Generalized Beta Distribution Tree</b> (with Jonathan E. Jensen and James B. McDonald), <i>Statistics and Probability Letters</i>, 2019
 
 
-Click [here](https://joshuadhigbee.github.io/epi-research/) to see past work in environmental epidemiology.
+Click [here](https://joshuadhigbee.github.io/epi-research/) to see additional research in environmental epidemiology.
