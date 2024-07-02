@@ -19,12 +19,10 @@ author_profile: true
 <b>Bargaining, Bartering, and Price Rigidity in Corporate Contracting</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley)
 
 
-## Working Papers
-{% for post in site.workingpapers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Selected Publications
+<b>The Log-T, GB2, and Skewed Generalized Log-T Distributions with Financial Applications</b> (with James B.\ McDonald), <i>Journal of Econometrics</i>, 2021
 
-## Publications
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>The Log-T, GB2, and Skewed Generalized Log-T Distributions with Financial Applications</b> (with Jonathan E.\ Jensen and James B.\ McDonald), <i>Statistics and Probability Letters</i>, 2019
+
+
+Click [here](https://doi.org/10.1289/EHP4438) to see past work in environmental epidemiology.
