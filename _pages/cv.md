@@ -12,4 +12,4 @@ redirect_from:
 
 <!---<embed src="https://github.com/joshuadhigbee/joshuadhigbee.github.io/blob/master/files/CV_JDH_Trim.pdf" type="application/pdf" width="600px" height="500px" />--->
 
-Available <a href="https://joshuadhigbee.github.io/files/CV_JDH_Trim.pdf">here</a>.
+Available <a href="https://joshuadhigbee.github.io/files/JDHigbee_CV_2024.pdf">here</a>.
