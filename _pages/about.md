@@ -13,6 +13,6 @@ I am a Ph.D. student in economics at the University of Chicago.  My research int
 My job market paper (coming soon) studies the role of information provision in the design of two-sided auction markets.
 I am also currently working on projects related to demand for information on financial exchanges, identification of agent beliefs in learning models, search and learning across online platforms, and bargaining in mergers and acquisitions contracts.
 
-I am on the 2024-2025 job market.
+<b>I am on the 2024-2025 academic job market.</b>
 
 You can reach me at joshuadhigbee [at] uchicago [dot] edu.
