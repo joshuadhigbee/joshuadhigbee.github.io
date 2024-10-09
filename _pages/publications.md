@@ -24,9 +24,9 @@ author_profile: true
 
 
 ## Selected Publications
-<b>The Log-T, GB2, and Skewed Generalized Log-T Distributions with Financial Applications</b> (with James B. McDonald), <i>Journal of Econometrics</i>, 2024
+<b>[A Comparison of the GB2 and Skewed Generalized Log-t Distributions with an Application in Finance](https://www.sciencedirect.com/science/article/pii/S0304407621000154)</b> (with James B. McDonald), <i>Journal of Econometrics</i>, 2024
 
-<b>The Asymmetric Log-Laplace: Another Branch on the Generalized Beta Distribution Tree</b> (with Jonathan E. Jensen and James B. McDonald), <i>Statistics and Probability Letters</i>, 2019
+<b>[The Asymmetric Log-Laplace Distribution as a Limiting Case of the Generalized Beta Distribution](https://www.sciencedirect.com/science/article/pii/S016771521930094X)</b> (with Jonathan E. Jensen and James B. McDonald), <i>Statistics and Probability Letters</i>, 2019
 
 
 Click [here](https://joshuadhigbee.github.io/epi-research/) to see additional research in environmental epidemiology.
