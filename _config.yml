@@ -85,13 +85,13 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "Me cropped.png"
-  bio              : "" # No bio right now (goes right under profile picture)
-  location         : "Chicago, IL"
+  bio              : #"" # No bio right now (goes right under profile picture)
+  location         : # "Chicago, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=L0Z-KY4AAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=L0Z-KY4AAAAJ&hl=en" #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "joshuadhigbee"
+  github           : #"joshuadhigbee"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,10 +109,10 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "joshuadhigbee"
+  twitter          : #"joshuadhigbee"
   vine             :
   weibo            :
   xing             :
