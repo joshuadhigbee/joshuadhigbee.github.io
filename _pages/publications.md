@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my work on [my Google Scholar profile](https://scholar.google.com/citations?user=L0Z-KY4AAAAJ&hl=en).
 
 ## Works in Progress
 <b>Learning and Information Design on an Auction Platform</b> <i>(Job Market Paper)</i>
@@ -26,5 +25,5 @@ You can also find my work on [my Google Scholar profile](https://scholar.google.
 
 <b>[The Asymmetric Log-Laplace Distribution as a Limiting Case of the Generalized Beta Distribution](https://www.sciencedirect.com/science/article/pii/S016771521930094X)</b> (with Jonathan E. Jensen and James B. McDonald), <i>Statistics and Probability Letters</i>, 2019
 
-
+You can also find my work on [my Google Scholar profile](https://scholar.google.com/citations?user=L0Z-KY4AAAAJ&hl=en).
 Click [here](https://joshuadhigbee.github.io/epi-research/) to see additional research in environmental epidemiology.
