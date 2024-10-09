@@ -5,11 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+You can also find my work on [my Google Scholar profile](https://scholar.google.com/citations?user=L0Z-KY4AAAAJ&hl=en).
 
 ## Works in Progress
 <b>Learning and Information Design on an Auction Platform</b> <i>(Job Market Paper)</i>
