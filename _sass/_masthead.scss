@@ -145,3 +145,24 @@
     padding: 0.5em 0;
   }
 }
+
+.greedy-nav {
+  height: $masthead-height;
+  
+  a {
+    margin: 0 0.5rem;
+  }
+}
+
+// Adjust the main content area to align with the masthead
+.page__content {
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  
+  @include breakpoint($large) {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
