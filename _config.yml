@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : #"Your Sidebar Name"
-  avatar           : "Me cropped.png"
+  avatar           : #"Me cropped.png"
   bio              : #"" # No bio right now (goes right under profile picture)
   location         : # "Chicago, IL"
   employer         :
