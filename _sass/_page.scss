@@ -160,10 +160,30 @@
   }
 }
 
+// .page__hero-image {
+//   width: 100%;
+//   height: auto;
+//   -ms-interpolation-mode: bicubic;
+// }
+
 .page__hero-image {
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+  
+  @media screen and (max-width: $small) {
+    max-height: 50vh; // This will make the image take up to 50% of the viewport height on mobile
+    object-fit: cover; // This ensures the image covers the area without distortion
+    object-position: center; // This centers the image
+  }
+   
+  @media screen and (max-width: $medium) {
+    max-height: 40vh;
+  }
+   
+  @media screen and (max-width: $large) {
+    max-height: 30vh;
+  }
 }
 
 .page__hero-caption {
