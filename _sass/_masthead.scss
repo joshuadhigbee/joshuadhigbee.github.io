@@ -65,7 +65,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 2em 1em; // Increased vertical padding
+    padding: 1em 1em 1em;
+    // padding: 2em 1em; // Increased vertical padding
     font-family: $sans-serif-narrow;
     
     @include breakpoint($x-large) {
@@ -95,7 +96,7 @@
   display: inline-block;
   list-style-type: none;
   white-space: nowrap;
-  padding: 0.5em 0; // Add some vertical padding to menu items
+  // padding: 0.5em 0; // Add some vertical padding to menu items
 
   &--lg {
     padding-right: 2em;
