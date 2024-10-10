@@ -68,24 +68,47 @@
   margin-right: auto;
 
   &__inner-wrap {
-    @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    // padding: 2em 1em; // Increased vertical padding
+    padding: 1em;
     font-family: $sans-serif-narrow;
     
-    @include breakpoint($x-large) {
-      max-width: $x-large;
+    @include breakpoint($large) {
+      padding-left: 2em;
+      padding-right: 2em;
     }
-
+    
+    @include breakpoint($x-large) {
+      max-width: $max-width;
+    }
+    
     nav {
       z-index: 10;
     }
-
+    
     a {
       text-decoration: none;
     }
   }
+
+  // &__inner-wrap {
+  //   @include container;
+  //   @include clearfix;
+  //   padding: 1em 1em 1em;
+  //   // padding: 2em 1em; // Increased vertical padding
+  //   font-family: $sans-serif-narrow;
+    
+  //   @include breakpoint($x-large) {
+  //     max-width: $x-large;
+  //   }
+
+  //   nav {
+  //     z-index: 10;
+  //   }
+
+  //   a {
+  //     text-decoration: none;
+  //   }
+  // }
 }
 
 .masthead__menu {
