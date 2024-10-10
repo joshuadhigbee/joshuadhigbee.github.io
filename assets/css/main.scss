@@ -78,9 +78,14 @@
 }
 
 .author__avatar {
-  display: none;
+  display: none !important;
 }
 
 .author__content {
   margin-left: 0;
+  padding-left: 0;
+}
+
+.sidebar .author__name {
+  margin-top: 0;
 }
