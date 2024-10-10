@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Me]("/images/Me cropped.png")
+
 I am a Ph.D. student in economics at the University of Chicago.  My research interests are in industrial organization, quantitative marketing, and econometrics. 
 
 My job market paper (coming soon) studies the role of information provision in the design of two-sided auction markets.
