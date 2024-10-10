@@ -2,57 +2,6 @@
    MASTHEAD
    ========================================================================== */
 
-// .masthead {
-//   position: relative;
-//   border-bottom: 1px solid $border-color;
-//   -webkit-animation: intro 0.3s both;
-//           animation: intro 0.3s both;
-//   -webkit-animation-delay: 0.15s;
-//           animation-delay: 0.15s;
-//   z-index: 20;
-
-//   &__inner-wrap {
-//     @include container;
-//     @include clearfix;
-//     padding: 1em 1em 1em;
-//     font-family: $sans-serif-narrow;
-
-//     @include breakpoint($x-large) {
-//       max-width: $x-large;
-//     }
-
-//     nav {
-//       z-index: 10;
-//     }
-
-//     a {
-//       text-decoration: none;
-//     }
-//   }
-// }
-
-// .masthead__menu {
-
-//   ul {
-//     margin: 0;
-//     padding: 0;
-//     clear: both;
-//     list-style-type: none;
-//   }
-// }
-
-// .masthead__menu-item {
-//   // display: block;
-//   display: inline-block;
-//   list-style-type: none;
-//   white-space: nowrap;
-
-//   &--lg {
-//     padding-right: 2em;
-//     font-weight: 700;
-//   }
-// }
-
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
@@ -62,54 +11,54 @@
           animation-delay: 0.15s;
   z-index: 20;
 
-  // New styles for alignment
-  max-width: $max-width;
-  margin-left: auto;
-  margin-right: auto;
-
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em;
-    font-family: $sans-serif-narrow;
-    
-    @include breakpoint($large) {
-      padding-left: 2em;
-      padding-right: 2em;
-    }
-    
-    @include breakpoint($x-large) {
-      max-width: $max-width;
-    }
-    
-    nav {
-      z-index: 10;
-    }
-    
-    a {
-      text-decoration: none;
-    }
-  }
+  // // New styles for alignment
+  // max-width: $max-width;
+  // margin-left: auto;
+  // margin-right: auto;
 
   // &__inner-wrap {
   //   @include container;
   //   @include clearfix;
-  //   padding: 1em 1em 1em;
-  //   // padding: 2em 1em; // Increased vertical padding
+  //   padding: 1em;
   //   font-family: $sans-serif-narrow;
     
-  //   @include breakpoint($x-large) {
-  //     max-width: $x-large;
+  //   @include breakpoint($large) {
+  //     padding-left: 2em;
+  //     padding-right: 2em;
   //   }
-
+    
+  //   @include breakpoint($x-large) {
+  //     max-width: $max-width;
+  //   }
+    
   //   nav {
   //     z-index: 10;
   //   }
-
+    
   //   a {
   //     text-decoration: none;
   //   }
   // }
+
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: 1em 1em 1em;
+    // padding: 2em 1em; // Increased vertical padding
+    font-family: $sans-serif-narrow;
+    
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
 }
 
 .masthead__menu {
@@ -144,27 +93,6 @@
   .masthead__menu-item {
     display: block; // Stack menu items on mobile
     padding: 0.5em 0;
-  }
-}
-
-.greedy-nav {
-  position: relative;
-  display: -webkit-box;
-  display: flex;
-  -webkit-box-align: center;
-  align-items: center;
-  background: $background-color;
-
-  a {
-    display: block;
-    margin: 0 1rem;
-    padding: 0.5rem 0;
-    color: $masthead-link-color;
-    text-decoration: none;
-
-    &:hover {
-      color: $masthead-link-color-hover;
-    }
   }
 }
 
