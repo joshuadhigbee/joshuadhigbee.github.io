@@ -18,9 +18,19 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      // max-width: $x-large;
-      max-width: $max-width;
+      max-width: $x-large;
+      // max-width: $max-width;
     }
+     
+    @media screen and (max-width: 600px) {
+      .masthead__inner-wrap {
+        padding: 0.5em;
+      }
+      
+      .masthead__menu-item {
+        padding: 0.25em;
+      }
+    } 
 
     nav {
       z-index: 10;
@@ -51,15 +61,5 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .masthead__inner-wrap {
-    padding: 0.5em;
-  }
-  
-  .masthead__menu-item {
-    padding: 0.25em;
   }
 }
