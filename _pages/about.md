@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/Me%20cropped.png" alt="Profile Picture" class="image-center">
 
-I am a Ph.D. student in economics at the University of Chicago.  My research interests are in industrial organization, quantitative marketing, and econometrics. 
+I am a Ph.D. student in economics at the University of Chicago.  My research interests are in industrial organization and quantitative marketing. 
 
 My job market paper (coming soon) studies the role of information provision in the design of two-sided auction markets.
 More broadly, my research is on platforms and the role that information plays in how they function.
