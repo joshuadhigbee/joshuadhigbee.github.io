@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+/*
+ *   Add custom adjustments
+*/
+
 .image-center {
   display: block;
   margin-left: auto;
@@ -70,4 +75,12 @@
     width: 40%;
     max-width: 300px;
   }
+}
+
+.author__avatar {
+  display: none;
+}
+
+.author__content {
+  margin-left: 0;
 }
