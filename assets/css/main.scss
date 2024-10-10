@@ -44,6 +44,30 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 80%; /* Default width for mobile */
   max-width: 300px;
+}
+
+/* For tablets and small desktops */
+@media screen and (min-width: 768px) {
+  .image-center {
+    width: 60%;
+    max-width: 400px;
+  }
+}
+
+/* For larger desktops */
+@media screen and (min-width: 1024px) {
+  .image-center {
+    width: 50%;
+    max-width: 500px;
+  }
+}
+
+/* For phones in landscape mode */
+@media screen and (max-width: 896px) and (orientation: landscape) {
+  .image-center {
+    width: 40%;
+    max-width: 300px;
+  }
 }
