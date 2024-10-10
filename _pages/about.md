@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Me]("/images/Me cropped.png")
+![Me]("/images/Me%20cropped.png")
 
 I am a Ph.D. student in economics at the University of Chicago.  My research interests are in industrial organization, quantitative marketing, and econometrics. 
 
