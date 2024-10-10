@@ -11,40 +11,10 @@
           animation-delay: 0.15s;
   z-index: 20;
 
-  // // New styles for alignment
-  // max-width: $max-width;
-  // margin-left: auto;
-  // margin-right: auto;
-
-  // &__inner-wrap {
-  //   @include container;
-  //   @include clearfix;
-  //   padding: 1em;
-  //   font-family: $sans-serif-narrow;
-    
-  //   @include breakpoint($large) {
-  //     padding-left: 2em;
-  //     padding-right: 2em;
-  //   }
-    
-  //   @include breakpoint($x-large) {
-  //     max-width: $max-width;
-  //   }
-    
-  //   nav {
-  //     z-index: 10;
-  //   }
-    
-  //   a {
-  //     text-decoration: none;
-  //   }
-  // }
-
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    // padding: 2em 1em; // Increased vertical padding
+    padding: 1em;
     font-family: $sans-serif-narrow;
     
     @include breakpoint($x-large) {
@@ -74,7 +44,6 @@
   display: inline-block;
   list-style-type: none;
   white-space: nowrap;
-  // padding: 0.5em 0; // Add some vertical padding to menu items
 
   &--lg {
     padding-right: 2em;
