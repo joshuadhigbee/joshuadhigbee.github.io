@@ -2,6 +2,57 @@
    MASTHEAD
    ========================================================================== */
 
+// .masthead {
+//   position: relative;
+//   border-bottom: 1px solid $border-color;
+//   -webkit-animation: intro 0.3s both;
+//           animation: intro 0.3s both;
+//   -webkit-animation-delay: 0.15s;
+//           animation-delay: 0.15s;
+//   z-index: 20;
+
+//   &__inner-wrap {
+//     @include container;
+//     @include clearfix;
+//     padding: 1em 1em 1em;
+//     font-family: $sans-serif-narrow;
+
+//     @include breakpoint($x-large) {
+//       max-width: $x-large;
+//     }
+
+//     nav {
+//       z-index: 10;
+//     }
+
+//     a {
+//       text-decoration: none;
+//     }
+//   }
+// }
+
+// .masthead__menu {
+
+//   ul {
+//     margin: 0;
+//     padding: 0;
+//     clear: both;
+//     list-style-type: none;
+//   }
+// }
+
+// .masthead__menu-item {
+//   // display: block;
+//   display: inline-block;
+//   list-style-type: none;
+//   white-space: nowrap;
+
+//   &--lg {
+//     padding-right: 2em;
+//     font-weight: 700;
+//   }
+// }
+
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
@@ -14,23 +65,12 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 2em 1em; // Increased vertical padding
     font-family: $sans-serif-narrow;
-
+    
     @include breakpoint($x-large) {
       max-width: $x-large;
-      // max-width: $max-width;
     }
-     
-    @media screen and (max-width: 600px) {
-      .masthead__inner-wrap {
-        padding: 0.5em;
-      }
-      
-      .masthead__menu-item {
-        padding: 0.25em;
-      }
-    } 
 
     nav {
       z-index: 10;
@@ -43,7 +83,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -53,13 +92,27 @@
 }
 
 .masthead__menu-item {
-  // display: block;
   display: inline-block;
   list-style-type: none;
   white-space: nowrap;
+  padding: 0.5em 0; // Add some vertical padding to menu items
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+}
+
+// New mobile-specific styles
+@media screen and (max-width: 600px) {
+  .masthead {
+    &__inner-wrap {
+      padding: 3em 1em; // Further increase padding on mobile
+    }
+  }
+
+  .masthead__menu-item {
+    display: block; // Stack menu items on mobile
+    padding: 0.5em 0;
   }
 }
