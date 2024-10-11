@@ -56,16 +56,16 @@
 /* For tablets and small desktops */
 @media screen and (min-width: 768px) {
   .image-center {
-    width: 50%;
-    max-width: 400px;
+    width: 40%;
+    max-width: 350px;
   }
 }
 
 /* For larger desktops */
 @media screen and (min-width: 1024px) {
   .image-center {
-    width: 50%;
-    max-width: 500px;
+    width: 40%;
+    max-width: 450px;
   }
 }
 
