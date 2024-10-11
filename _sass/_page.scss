@@ -53,6 +53,12 @@
 
 .page__content {
 
+  padding-left: 0;
+  padding-right: 0;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
