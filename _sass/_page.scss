@@ -28,9 +28,9 @@
 
     .page__content,
     .page__meta,
-    .page__share {
-      @include full();
-    }
+    // .page__share {
+    //   @include full();
+    // }
   }
 }
 
