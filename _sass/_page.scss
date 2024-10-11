@@ -59,6 +59,18 @@
   margin-left: auto;
   margin-right: auto;
 
+  @include breakpoint($medium) {
+    max-width: 80%;  // Adjust this value as needed
+  }
+
+  @include breakpoint($large) {
+    max-width: 70%;  // Adjust this value as needed
+  }
+
+  @include breakpoint($x-large) {
+    max-width: 60%;  // Adjust this value as needed
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
