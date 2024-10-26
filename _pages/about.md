@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Joshua_Higbee_JMC.jpeg" alt="Profile Picture" class="image-center">
+<img src="/images/Joshua_Higbee_JMC_new.jpeg" alt="Profile Picture" class="image-center">
 
 I am a Ph.D. student in economics at the University of Chicago.  My research interests are in industrial organization and quantitative marketing. 
 
