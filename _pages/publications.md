@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Works in Progress
-<b>Learning and Information Design on an Auction Platform</b> <i>(Job Market Paper)</i>
+<b>Learning and Information Design on an Auction Platform</b> <i>(Job Market Paper - coming soon!)</i>
 
 <b>Identification in Models with Agent Learning</b>
 
