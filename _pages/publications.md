@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Works in Progress
-<b>Learning and Information Design on an Auction Platform</b> <i>(Job Market Paper - coming soon!)</i>
+<b>[Learning and Information Design on an Auction Platform](https://joshuadhigbee.github.io/files/JoshuaDHigbee_JMP_LearningAuctions.pdf)</b> <i>(Job Market Paper - updated Nov 1, 2024)</i>
 
 <b>Identification in Models with Agent Learning</b>
 
