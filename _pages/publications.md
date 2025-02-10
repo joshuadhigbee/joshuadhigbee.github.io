@@ -9,10 +9,10 @@ author_profile: true
 ## Working Papers
 <b>[Learning and Information Design on an Auction Platform](https://joshuadhigbee.github.io/files/JoshuaDHigbee_JMP_LearningAuctions.pdf)</b> <i>(Job Market Paper - updated Nov 25, 2024)</i>
 
-## Works in Progress
-<b>Bargaining, Bartering, and Price Rigidity in Corporate Contracting</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley - draft coming soon!)\
+<b>[Bargaining, Bartering, and Price Rigidity in Corporate Contracting](https://joshuadhigbee.github.io/files/Bargaining_Bartering_Price_Rigidity_Corporate_Contracting.pdf)</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley - preliminary, updated Feb 10, 2025)\
 <i>Presented at 2024 Winter Deals</i>
 
+## Works in Progress
 <b>Identification in Models with Agent Learning</b>
 
 <b>Information Demand on Centralized Exchanges</b> (with Marco Loseto)
