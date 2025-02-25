@@ -16,6 +16,4 @@ My [<b>job market paper</b>](https://joshuadhigbee.github.io/files/JoshuaDHigbee
 More broadly, my research is on platforms and the role that information plays in how they function.
 I am currently working on projects related to demand for market data on financial exchanges, search and learning across online platforms, identification of agent beliefs in learning models, and bargaining in mergers and acquisitions contracts.
 
-<b>I am on the 2024-2025 academic job market.</b>
-
 You can reach me at joshuadhigbee [at] uchicago [dot] edu.
