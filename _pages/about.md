@@ -15,5 +15,6 @@ I am a Ph.D. student in economics at the University of Chicago.  My research int
 My [<b>job market paper</b>](https://joshuadhigbee.github.io/files/JoshuaDHigbee_JMP_LearningAuctions.pdf) studies the role of information provision in the design of two-sided auction markets.
 More broadly, my research is on platforms and the role that information plays in how they function.
 I am currently working on projects related to demand for market data on financial exchanges, search and learning across online platforms, identification of agent beliefs in learning models, and bargaining in mergers and acquisitions contracts.
+You can find more information on <a href="https://joshuadhigbee.github.io/files/JoshuaDHigbee_CV.pdf">my CV</a>.
 
 You can reach me at joshuadhigbee [at] uchicago [dot] edu.
