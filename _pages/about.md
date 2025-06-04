@@ -17,4 +17,6 @@ More broadly, my research is on platforms and the role that information plays in
 I am currently working on projects related to demand for market data on financial exchanges, search and learning across online platforms, identification of agent beliefs in learning models, and bargaining in mergers and acquisitions contracts.
 You can find more information on <a href="https://joshuadhigbee.github.io/files/JoshuaDHigbee_CV.pdf">my CV</a>.
 
+I will be joining the Department of Economics at The Ohio State University in August 2025.
+
 You can reach me at joshuadhigbee [at] uchicago [dot] edu.
