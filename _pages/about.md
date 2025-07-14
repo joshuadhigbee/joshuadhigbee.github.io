@@ -19,4 +19,4 @@ You can find more information on <a href="https://joshuadhigbee.github.io/files/
 
 I will be joining the Department of Economics at The Ohio State University in August 2025.
 
-You can reach me at joshuadhigbee [at] uchicago [dot] edu.
+You can reach me at higbee.25 [at] osu [dot] edu.
