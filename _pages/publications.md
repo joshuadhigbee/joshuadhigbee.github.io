@@ -10,7 +10,7 @@ author_profile: true
 <b>[Learning and Information Design on an Auction Platform](https://joshuadhigbee.github.io/files/JoshuaDHigbee_JMP_LearningAuctions.pdf)</b> <i>(Job Market Paper - updated Nov 25, 2024)</i>\
 <i>Presented at IIOC 2025</i>
 
-<b>[Fix the Price or Price the Fix? Resolving the Sequencing Puzzle in Corporate Acquisitions](https://joshuadhigbee.github.io/files/Fix_the_Price_or_Price_the_Fix.pdf)</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley - updated Feb 25, 2025)\
+<b>[Fix the Price or Price the Fix? Resolving the Sequencing Puzzle in Corporate Acquisitions](https://joshuadhigbee.github.io/files/Fix_the_Price_or_Price_the_Fix.pdf)</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley - updated Jul 14, 2025)\
 <i>Presented at Winter Deals 2024, ALEA 2025*</i>
 
 ## Works in Progress
