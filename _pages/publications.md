@@ -11,7 +11,8 @@ author_profile: true
 <i>Presented at IIOC 2025</i>
 
 <b>[Fix the Price or Price the Fix? Resolving the Sequencing Puzzle in Corporate Acquisitions](https://joshuadhigbee.github.io/files/Fix_the_Price_or_Price_the_Fix.pdf)</b> (with Matthew Jennejohn, Cree Jones, and Eric Talley - updated Jul 14, 2025)\
-<i>Presented at Winter Deals 2024, ALEA 2025*</i>
+<i>Presented at Winter Deals 2024, ALEA 2025*</i>\
+Online appendix [here](https://joshuadhigbee.github.io/files/OA_Fix_the_Price_or_Price_the_Fix.pdf).
 
 ## Works in Progress
 <b>Identification in Models with Agent Learning</b>
