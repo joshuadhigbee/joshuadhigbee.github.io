@@ -10,13 +10,11 @@ redirect_from:
 
 <img src="/images/Joshua_Higbee_JMC_new.jpeg" alt="Profile Picture" class="image-center">
 
-I am a Ph.D. student in economics at the University of Chicago.  My research interests are in industrial organization and quantitative marketing. 
+I am an Assistant Professor of Economics at The Ohio State University. I obtained my Ph.D. in Economics from the University of Chicago in 2025.
 
-My [<b>job market paper</b>](https://joshuadhigbee.github.io/files/JoshuaDHigbee_JMP_LearningAuctions.pdf) studies the role of information provision in the design of two-sided auction markets.
-More broadly, my research is on platforms and the role that information plays in how they function.
-I am currently working on projects related to demand for market data on financial exchanges, search and learning across online platforms, identification of agent beliefs in learning models, and bargaining in mergers and acquisitions contracts.
+My research is in industrial organization, with some overlap in quantitative marketing and econometrics.
+In particular, my focus is on platforms and the role that information plays in how they function.
+I am currently working on projects related to learning and mechanism design on auction platforms, financial exchanges, online retail, and position auctions, as well as studying corporate contracting and the identification of structural learning models.
 You can find more information on <a href="https://joshuadhigbee.github.io/files/JoshuaDHigbee_CV.pdf">my CV</a>.
-
-I will be joining the Department of Economics at The Ohio State University in August 2025.
 
 You can reach me at higbee.25 [at] osu [dot] edu.
