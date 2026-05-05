@@ -6,19 +6,22 @@ author_profile: true
 
 {% include base_path %}
 
-I have been a TA for the following classes.
+<p>I have been a TA for the following classes.</p>
 
-## PhD
-Advanced Industrial Organization II (Winter 2023)
+<section class="content-section" aria-labelledby="phd">
+  <h2 id="phd">PhD</h2>
+  <p>Advanced Industrial Organization II (Winter 2023)</p>
+  <p>Advanced Industrial Organization III (Spring 2022)</p>
+</section>
 
-Advanced Industrial Organization III (Spring 2022)
+<section class="content-section" aria-labelledby="mba-masters">
+  <h2 id="mba-masters">MBA/Masters</h2>
+  <p>Competitive Strategy (Winter 2023)</p>
+  <p>Empirical Industrial Organization (Winter 2022)</p>
+</section>
 
-## MBA/Masters
-Competitive Strategy (Winter 2023)
-
-Empirical Industrial Organization (Winter 2022)
-
-## Undergraduate
-Econometrics (Spring 2024)
-
-Elements of Economic Analysis I (Fall 2021)
+<section class="content-section" aria-labelledby="undergraduate">
+  <h2 id="undergraduate">Undergraduate</h2>
+  <p>Econometrics (Spring 2024)</p>
+  <p>Elements of Economic Analysis I (Fall 2021)</p>
+</section>

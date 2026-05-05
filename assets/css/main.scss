@@ -89,3 +89,356 @@
 .sidebar .author__name {
   margin-top: 0;
 }
+
+/*
+ * Red theme implementation
+ *
+ * This block maps the explicit page classes in _pages/*.md onto the visual
+ * system from website_red_theme_mockup.html and website_red_theme_styles.css.
+*/
+
+:root {
+  --jh-scarlet: #ba0c2f;
+  --jh-scarlet-dark: #7d1022;
+  --jh-ink: #29262a;
+  --jh-muted: #5f5b61;
+  --jh-paper: #fbfaf8;
+  --jh-surface: #ffffff;
+  --jh-soft-scarlet: #f8eef1;
+  --jh-rule: #e6dfdc;
+  --jh-shadow: 0 12px 30px rgba(41, 38, 42, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--jh-paper);
+  color: var(--jh-ink);
+}
+
+body {
+  margin: 0;
+  color: var(--jh-ink);
+  background: var(--jh-paper);
+}
+
+body,
+.masthead__inner-wrap,
+.greedy-nav,
+.page__content,
+.page__footer {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+a,
+.page__content a {
+  color: var(--jh-scarlet-dark);
+  text-decoration-color: rgba(186, 12, 47, 0.35);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+a:visited,
+.page__content a:visited {
+  color: var(--jh-scarlet-dark);
+}
+
+a:hover,
+a:active,
+.page__content a:hover,
+.page__content a:active {
+  color: var(--jh-scarlet);
+  text-decoration-color: var(--jh-scarlet);
+}
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.96);
+  border-top: 4px solid var(--jh-scarlet);
+  border-bottom: 1px solid var(--jh-rule);
+  backdrop-filter: blur(12px);
+}
+
+.masthead__inner-wrap {
+  width: min(925px, calc(100% - 2rem));
+  max-width: 925px !important;
+  margin: 0 auto;
+  padding: 0.95rem 0;
+}
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  min-width: 0;
+  background: transparent;
+}
+
+.greedy-nav button {
+  display: none !important;
+}
+
+.greedy-nav a,
+.masthead__menu-item a {
+  margin: 0;
+  padding: 0;
+  color: #444047;
+  text-decoration: none;
+}
+
+.masthead__menu-item--lg {
+  padding-right: 0;
+  font-weight: 750;
+}
+
+.masthead__menu-item--lg a {
+  color: var(--jh-ink);
+}
+
+.greedy-nav a:hover,
+.masthead__menu-item a:hover {
+  color: var(--jh-scarlet);
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  align-items: center;
+  gap: 1.35rem;
+  visibility: visible !important;
+}
+
+.greedy-nav .visible-links li {
+  display: block;
+}
+
+.greedy-nav .visible-links a::before {
+  display: none;
+}
+
+.sidebar {
+  display: none !important;
+}
+
+#main {
+  width: min(925px, calc(100% - 2rem));
+  max-width: 925px !important;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.page {
+  width: 100%;
+}
+
+.page__inner-wrap,
+.page__content,
+.page__meta,
+.page__share {
+  float: none !important;
+  width: 100% !important;
+}
+
+.page__content {
+  width: min(780px, 100%) !important;
+  max-width: 780px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  color: var(--jh-muted);
+}
+
+.page__content:has(.home-layout) {
+  width: 100% !important;
+  max-width: 925px !important;
+}
+
+.home-layout {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  gap: clamp(2rem, 6vw, 4.5rem);
+  align-items: start;
+  padding: clamp(2.5rem, 7vw, 4.25rem) 0 4rem;
+}
+
+.portrait-block {
+  position: relative;
+  width: min(300px, 100%);
+  margin: 0 auto;
+}
+
+.portrait-block::before {
+  position: absolute;
+  inset: 14px -14px -14px 14px;
+  content: "";
+  background: var(--jh-soft-scarlet);
+  border-radius: 7px;
+}
+
+.portrait {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: 51% 42%;
+  background: var(--jh-surface);
+  border: 1px solid var(--jh-rule);
+  border-radius: 7px;
+  box-shadow: var(--jh-shadow);
+}
+
+.about-copy {
+  max-width: 620px;
+}
+
+.page__content p,
+.page__content li,
+.page__content dl {
+  margin: 0 0 1.25rem;
+  color: var(--jh-muted);
+  font-size: 1em;
+  line-height: 1.58;
+}
+
+.page__content .lead {
+  margin-top: 0;
+  padding-top: 0.9rem;
+  color: var(--jh-ink);
+  font-size: 1.04rem;
+}
+
+.page__content .lead::before {
+  display: block;
+  width: 4rem;
+  height: 3px;
+  margin-bottom: 1.05rem;
+  content: "";
+  background: var(--jh-scarlet);
+}
+
+.page__content strong,
+.page__content b {
+  color: var(--jh-ink);
+}
+
+.page header {
+  max-width: 780px;
+  margin: 0 auto;
+  padding-top: 2.7rem;
+}
+
+.page header:empty {
+  display: none;
+}
+
+.page__title {
+  margin: 0 0 1.9rem;
+  color: var(--jh-ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.72rem;
+  font-weight: 500;
+  line-height: 1.15;
+}
+
+.page__title::after {
+  display: block;
+  width: 4rem;
+  height: 3px;
+  margin-top: 0.75rem;
+  content: "";
+  background: var(--jh-scarlet);
+}
+
+.content-section {
+  padding: 1.05rem 0 1.35rem;
+  border-top: 1px solid var(--jh-rule);
+}
+
+.content-section:first-of-type {
+  border-top: 0;
+}
+
+.page__content h2 {
+  margin: 0 0 0.95rem;
+  padding: 0;
+  color: var(--jh-ink);
+  font-size: 1.06rem;
+  font-weight: 750;
+  line-height: 1.25;
+  border: 0;
+}
+
+.content-section p {
+  margin-bottom: 1.1rem;
+}
+
+.page__footer {
+  position: static;
+  width: 100%;
+  margin: 0;
+  padding: 1.8rem 0 2.7rem;
+  color: var(--jh-muted);
+  background: transparent;
+  font-size: 0.82rem;
+}
+
+.page__footer footer {
+  width: min(925px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 0;
+  max-width: none;
+  border-top: 1px solid var(--jh-rule);
+}
+
+.page__footer-copyright {
+  color: transparent;
+  font-size: 0;
+  padding-top: 1.8rem;
+}
+
+.page__footer-copyright::before {
+  color: var(--jh-muted);
+  font-size: 0.82rem;
+  content: "\00a9  2026 Joshua Higbee.";
+}
+
+@media (max-width: 760px) {
+  html {
+    font-size: 16px;
+  }
+
+  .masthead__inner-wrap {
+    padding: 1rem 0;
+  }
+
+  .greedy-nav {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+
+  .greedy-nav .visible-links {
+    display: flex !important;
+    justify-content: space-between;
+    gap: 0.7rem;
+    width: 100%;
+  }
+
+  .home-layout {
+    grid-template-columns: 1fr;
+    gap: 2.2rem;
+    padding-top: 2.2rem;
+  }
+
+  .portrait-block {
+    max-width: 280px;
+  }
+
+  .about-copy {
+    max-width: none;
+  }
+}
