@@ -304,6 +304,10 @@ a:active,
   line-height: 1.58;
 }
 
+.about-copy p {
+  color: var(--jh-ink);
+}
+
 .page__content .lead {
   margin-top: 0;
   padding-top: 0.9rem;
