@@ -11,7 +11,7 @@ author_profile: true
 
   <p>
     <strong><a href="https://joshuadhigbee.github.io/files/JoshuaDHigbee_JMP_LearningAuctions.pdf">Learning and Information Design on an Auction Platform</a></strong>
-    <em>(Updated Nov 25, 2024)</em><br>
+    <em>(Updated Nov 25, 2024 -- new draft coming soon!)</em><br>
     <em>Presented at IIOC 2025, SEA 2025</em>
   </p>
 
