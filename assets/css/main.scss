@@ -256,6 +256,12 @@ a:active,
   max-width: 925px !important;
 }
 
+/* Style C: soft grey margin rule down interior content columns */
+.page__content:has(.content-section) {
+  border-left: 2px solid var(--jh-rule);
+  padding-left: 32px;
+}
+
 .home-layout {
   display: grid;
   grid-template-columns: 300px minmax(0, 1fr);
@@ -270,12 +276,9 @@ a:active,
   margin: 0 auto;
 }
 
+/* Style C: plain portrait — offset block removed */
 .portrait-block::before {
-  position: absolute;
-  inset: 14px -14px -14px 14px;
-  content: "";
-  background: var(--jh-soft-scarlet);
-  border-radius: 7px;
+  display: none;
 }
 
 .portrait {
@@ -287,12 +290,14 @@ a:active,
   object-position: 51% 42%;
   background: var(--jh-surface);
   border: 1px solid var(--jh-rule);
-  border-radius: 7px;
-  box-shadow: var(--jh-shadow);
+  border-radius: 2px;
+  box-shadow: 0 16px 34px rgba(41, 38, 42, 0.13);
 }
 
 .about-copy {
   max-width: 620px;
+  border-left: 2px solid var(--jh-rule);
+  padding-left: 30px;
 }
 
 .page__content p,
@@ -358,21 +363,24 @@ a:active,
 }
 
 .content-section {
-  padding: 1.05rem 0 1.35rem;
-  border-top: 1px solid var(--jh-rule);
-}
-
-.content-section:first-of-type {
+  padding: 0;
+  margin-bottom: 2.2rem;
   border-top: 0;
 }
 
+.content-section:last-of-type {
+  margin-bottom: 0;
+}
+
 .page__content h2 {
-  margin: 0 0 0.95rem;
+  margin: 0 0 1rem;
   padding: 0;
   color: var(--jh-ink);
-  font-size: 1.06rem;
-  font-weight: 750;
-  line-height: 1.25;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  line-height: 1.3;
   border: 0;
 }
 
