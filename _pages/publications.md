@@ -18,6 +18,7 @@ author_profile: true
   <p>
     <strong><a href="https://joshuadhigbee.github.io/files/Fix_the_Price_or_Price_the_Fix.pdf">Fix the Price or Price the Fix? Resolving the Sequencing Puzzle in Corporate Acquisitions</a></strong>
     (with Matthew Jennejohn, Cree Jones, and Eric Talley - updated Dec 9, 2025)<br>
+    Revise and Resubmit at Journal of Law, Economics, and Organization<br>
     <em>Presented at Winter Deals 2024, ALEA 2025*, CELS 2025, LET 2025</em><br>
     Online appendix <a href="https://joshuadhigbee.github.io/files/Fix_the_Price_or_Price_the_Fix_Appendix.pdf">here</a>.
   </p>
@@ -26,9 +27,10 @@ author_profile: true
 <section class="content-section" aria-labelledby="works-in-progress">
   <h2 id="works-in-progress">Works in Progress</h2>
 
+  <p><strong>Click Probabilities and Optimal Reserve Prices in Position Auctions</strong> (with Samuel Higbee and Ali Hortaçsu)</p>
   <p><strong>Identification in Models with Agent Learning</strong></p>
-  <p><strong>Information Demand on Centralized Exchanges</strong> (with Marco Loseto)</p>
-  <p><strong>Retailer Self-Preferencing When Consumers Learn by Searching</strong> (with Oguz Bayraktar)</p>
+  <p><strong>Self-Preferencing and Search in Retail Competition</strong> (with Oguz Bayraktar)</p>
+  <p><strong>Information Demand on Centralized Exchanges</strong> (with Jacob Hartwig and Marco Loseto)</p>
 </section>
 
 <section class="content-section" aria-labelledby="selected-publications">
