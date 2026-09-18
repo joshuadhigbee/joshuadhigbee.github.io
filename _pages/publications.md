@@ -27,7 +27,7 @@ author_profile: true
 <section class="content-section" aria-labelledby="works-in-progress">
   <h2 id="works-in-progress">Works in Progress</h2>
 
-  <p><strong>Click Probabilities and Optimal Reserve Prices in Position Auctions</strong> (with Samuel Higbee and Ali Hortaçsu)</p>
+  <p><strong>Consumer Preferences and Optimal Reserve Prices in Position Auctions</strong> (with Samuel Higbee and Ali Hortaçsu)</p>
   <p><strong>Identification in Models with Agent Learning</strong></p>
   <p><strong>Self-Preferencing and Search in Retail Competition</strong> (with Oguz Bayraktar)</p>
   <p><strong>Information Demand on Centralized Exchanges</strong> (with Jacob Hartwig and Marco Loseto)</p>
